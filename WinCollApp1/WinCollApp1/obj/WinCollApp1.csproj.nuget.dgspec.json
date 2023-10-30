@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\C#\\WinCollApp1\\WinCollApp1\\WinCollApp1.csproj": {}
+    "C:\\Work\\C#\\MyBasicCSharp\\WinCollApp1\\WinCollApp1\\WinCollApp1.csproj": {}
   },
   "projects": {
-    "C:\\Work\\C#\\WinCollApp1\\WinCollApp1\\WinCollApp1.csproj": {
+    "C:\\Work\\C#\\MyBasicCSharp\\WinCollApp1\\WinCollApp1\\WinCollApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\C#\\WinCollApp1\\WinCollApp1\\WinCollApp1.csproj",
+        "projectUniqueName": "C:\\Work\\C#\\MyBasicCSharp\\WinCollApp1\\WinCollApp1\\WinCollApp1.csproj",
         "projectName": "WinCollApp1",
-        "projectPath": "C:\\Work\\C#\\WinCollApp1\\WinCollApp1\\WinCollApp1.csproj",
+        "projectPath": "C:\\Work\\C#\\MyBasicCSharp\\WinCollApp1\\WinCollApp1\\WinCollApp1.csproj",
         "packagesPath": "C:\\Users\\Khramov\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\C#\\WinCollApp1\\WinCollApp1\\obj\\",
+        "outputPath": "C:\\Work\\C#\\MyBasicCSharp\\WinCollApp1\\WinCollApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

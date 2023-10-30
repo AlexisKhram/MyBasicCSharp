@@ -36,6 +36,7 @@ namespace WinCollApp1
             {
                 txtOutput.Text += item + " ";
             }
+            /* Закомментирован вывод словаря
             txtOutput.Text += Environment.NewLine;
             txtOutput.Text += Environment.NewLine;
             txtOutput.Text += "Вывод словаря животных" + Environment.NewLine;
@@ -48,7 +49,7 @@ namespace WinCollApp1
             {
                 txtOutput.Text += item + Environment.NewLine;
             }
-
+            */
 
         }
     }
